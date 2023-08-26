@@ -1,0 +1,25 @@
+.top-container{
+    background-color: #BAD1C2;
+    height:40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color:black;
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;;
+    margin-top: 70px;
+    margin-bottom: -5px;
+}
+#imp{
+    font-family: URW Chancery L, cursive;
+}
+.vdo {
+    position: relative;
+}
+.signup {
+    position: absolute;
+    top : 0;
+    left: 100px;
+    opacity: 0.5;
+}
